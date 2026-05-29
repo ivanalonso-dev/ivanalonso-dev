@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**ivanalonso-dev/ivanalonso-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ivan Alonso
 
-Here are some ideas to get you started:
+Python Developer focused on Financial Markets, Crypto, Blockchain and Web3 Technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Barcelona, Spain  
+📧 ivanalonso.dev@gmail.com
+
+
+## Education
+- Master in Full Stack Development — Atrium, Barcelona (2023)
+- Master in Data Science & Artificial Intelligence — ENEB, Barcelona (Currently Studying)
+
+## Technical Skills
+- Python
+- APIs & JSON
+- Git & GitHub
+- Blockchain Fundamentals
+- Smart Contracts
+- Trading Bots & Financial Automation
+- Data Analysis
+- Web3 Technologies
+- Market Analysis & Risk Management
+
+## Additional Training
+- Machine Learning Fundamentals
+- Big Data Algorithms
+- Trading Systems & Financial Markets
+
+## Certifications
+- IBM Python Certificate ([Credly)](https://www.credly.com/badges/a60b90a4-4e4c-4c55-ac0b-213e347bde0c/public_url)
+
+## Projects
+- Crypto Price Analyzer
+- Markov Chain Trading Bot (in progress)
+- Trading Automation Projects
