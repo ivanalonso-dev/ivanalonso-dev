@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Ivan Alonso
+# Ivan A. Herrezuelo
 
 Python Developer focused on Financial Markets, Crypto, Blockchain and Web3 Technologies.
 
