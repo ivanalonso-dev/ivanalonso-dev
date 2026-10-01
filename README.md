@@ -1,7 +1,7 @@
 # Ivan Alonso Herrezuelo
 
 **Blockchain Data & Quantitative Engineer · On-Chain Intelligence · Fintech**
-📍 Barcelona, Spain · 📧 [ivanalonso.dev@gmail.com](mailto:ivanalonso.dev@gmail.com) · 🔗 [LinkedIn]([LINKEDIN_URL]) · 🤖 [Crucible Quant bot](https://t.me/CrucibleQuantBot) · 𝕏 [@cruciblequant](https://x.com/cruciblequant)
+📍 Barcelona, Spain ·  [ivanalonso.dev@gmail.com](mailto:ivanalonso.dev@gmail.com) ·  [LinkedIn]([LINKEDIN_URL]) ·  [Crucible Quant bot](https://t.me/CrucibleQuantBot) ·  [@cruciblequant](https://x.com/cruciblequant)
 
 Founder and software architect building institutional-grade data systems for digital asset markets. I designed and built **BCSentinel AI**, a multichain on-chain intelligence platform (~25,000 lines of tested Python, 50 formal architecture documents), and launched **Crucible Quant**, a statistically validated crypto alert service running in production with paying subscriptions.
 
@@ -16,7 +16,7 @@ Before moving into technology I spent **20+ years leading complex construction p
 
 ---
 
-## 🛰️ EMERGE · BCSentinel AI — Founder & Software Architect · *2026 – Present*
+##  EMERGE · BCSentinel AI — Founder & Software Architect · *2026 – Present*
 **Future Formation Intelligence:** an institutional platform that detects how DAOs, protocols and token economies form on-chain before they become public.
 `Python` `pytest` `SQL / Dune Analytics` `Blockscout` `Etherscan` `Ethereum` `Arbitrum` `Optimism` `Base`
  Public overview: [BCSentinelAIpublic](https://github.com/ivanalonso-dev/BCSentinelAIpublic)
@@ -28,7 +28,7 @@ Before moving into technology I spent **20+ years leading complex construction p
 - **Empirical validation (EFD-001):** 197+ wallets investigated towards a 260-case dataset, plus prospective monitoring of live pre-public formations; observed lead times of 2 to 825 days between the first on-chain signal and public launch.
 - **Go-to-market:** B2B strategy for quantitative crypto funds and institutional allocators (90+ qualified prospects in five regions). Pre-revenue, pre-incorporation.
 
-## 📡 [Crucible Quant](https://github.com/ivanalonso-dev/crucible-quant) — Founder & Developer · *Sep 2026 – Present*
+##  [Crucible Quant](https://github.com/ivanalonso-dev/crucible-quant) — Founder & Developer · *Sep 2026 – Present*
 Statistically validated crypto volatility alerts, sold as a subscription Telegram service.
 `Python` `pandas` `NumPy` `SQLite` `Telegram Bot API` `Linux`
 
