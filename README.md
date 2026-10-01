@@ -37,7 +37,7 @@ Statistically validated crypto volatility alerts, sold as a subscription Telegra
 - Double alerts preceded a ±8% move **88.8%** of the time vs. **75.8%** (2025–26).
 - Shipped end to end: daily signal engine, auto-renewing Telegram Stars subscriptions, affiliate programme, self-verifying live track record and automated weekly reports.
 
-##  [Markov Chain Trading Framework](https://github.com/ivanalonso-dev/markov-quant-dashboard) — *In progress*
+##  [Markov Chain Trading Framework](https://github.com/ivanalonso-dev/markov-quant-dashboard) 
 Modular Python framework for crypto markets (Binance API): Markov-chain regime detection, technical indicators, multi-factor scoring, risk and position management, backtesting.
 
 ##  Site Manager & Production Manager · Construction — *20+ years*
