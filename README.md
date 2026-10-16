@@ -32,6 +32,19 @@ Future Formation Intelligence: detects how DAOs, protocols and token economies f
 - Built proprietary knowledge libraries from raw chain data: 654 calibrated function selectors and 3,542 contract bytecode hashes, plus a failure-inference engine with six empirically catalogued failure archetypes.
 - Defined the go-to-market for quantitative crypto funds and institutional allocators (90+ qualified prospects in five regions); institutional sales begin once the first live case is confirmed.
 
+### EMERGE · Trenchwatch
+**Founder & Software Architect** · Oct 2026 – Present · [Public overview](https://github.com/ivanalonso-dev/trenchwatchpublic) · [Open standard](https://github.com/ivanalonso-dev/solana-launch-alerts)
+
+Real-time detection of serial token operators and their bot clusters on Solana launchpads, delivered as alerts to launchpads, wallets, trading terminals and security teams.
+
+*Stack:* Python, SQLite, Solana RPC and WebSockets, REST API, HMAC-signed webhooks, TypeScript · pump.fun, Meteora DBC, Raydium LaunchLab, Bags, Bonk.fun
+
+- Built a live pipeline that decodes token launches across five Solana launchpads and attributes each one to known operators: 33,000+ launches and 280,000+ early purchases recorded, with a median launch-to-alert latency under 4 seconds and zero lost transactions.
+- Built an operator registry of 520 serial creators and their linked wallets; 42% of all recorded launches came from creators already in the registry.
+- Designed an out-of-sample validation framework with frozen snapshots, criteria fixed in writing before measurement and comparison against tokens of the same activity level: in the first live session, 4% of flagged tokens turned out fine for buyers versus 14% of comparable tokens.
+- Shipped the client layer: Telegram and email alerts, HMAC-signed webhooks with replay protection and retries, a REST API with sandbox and OpenAPI documentation, plus licence, SLA and data-protection templates.
+- Published Solana Launch Alerts, an open MIT-licensed standard for launch-risk alerts with TypeScript and Python SDKs verified by 52 automated tests.
+
 ### Crucible Quant
 **Founder & Developer** · Sep 2026 – Present · [Repository](https://github.com/ivanalonso-dev/crucible-quant) · [Telegram bot](https://t.me/CrucibleQuantBot)
 
@@ -132,5 +145,3 @@ Professional orchestra conductor. Guest conductor of the Lithuanian State Sympho
 ---
 
 **Languages:** Spanish (native) · English (fluent)
-
-Open to remote roles and partnerships in on-chain intelligence, blockchain data, quantitative research and fintech.
