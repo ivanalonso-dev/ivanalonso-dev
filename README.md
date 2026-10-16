@@ -41,7 +41,7 @@ Real-time detection of serial token operators and their bot clusters on Solana l
 
 - Built a live pipeline that decodes token launches across five Solana launchpads and attributes each one to known operators: 33,000+ launches and 280,000+ early purchases recorded, with a median launch-to-alert latency under 4 seconds and zero lost transactions.
 - Built an operator registry of 520 serial creators and their linked wallets; 42% of all recorded launches came from creators already in the registry.
-- Designed an out-of-sample validation framework with frozen snapshots, criteria fixed in writing before measurement and comparison against tokens of the same activity level: in the first live session, 4% of flagged tokens turned out fine for buyers versus 14% of comparable tokens.
+- Designed an out-of-sample validation framework with frozen snapshots, criteria fixed in writing before measurement and matched comparison against tokens of the same activity level; in a 21-hour out-of-sample test, 68 operator alerts reached clients a median 3.2 seconds after launch, ahead of 1,202 outside wallets that bought 561 SOL.
 - Shipped the client layer: Telegram and email alerts, HMAC-signed webhooks with replay protection and retries, a REST API with sandbox and OpenAPI documentation, plus licence, SLA and data-protection templates.
 - Published Solana Launch Alerts, an open MIT-licensed standard for launch-risk alerts with TypeScript and Python SDKs verified by 52 automated tests.
 
