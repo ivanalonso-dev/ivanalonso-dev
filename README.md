@@ -20,7 +20,7 @@ I work the way I have always worked: documented decisions, evidence before concl
 ## Technology Ventures
 
 ### EMERGE · BCSentinel AI
-**Founder & Software Architect** · 2026 – Present · [bcsentinel.ai](https://www.bcsentinel.ai) · [Public overview](https://github.com/ivanalonso-dev/BCSentinelAIpublic)
+**Founder & Software Architect** · 2025 – Present · [bcsentinel.ai](https://www.bcsentinel.ai) · [Public overview](https://github.com/ivanalonso-dev/BCSentinelAIpublic)
 
 Future Formation Intelligence: detects how DAOs, protocols and token economies form on-chain before they become public, for institutional investors.
 
