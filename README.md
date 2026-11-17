@@ -2,7 +2,7 @@
 
 **Founder & Software Architect | On-Chain Intelligence | Blockchain & Fintech**
 
-Barcelona, Spain · [ivanalonso.dev@gmail.com](mailto:ivanalonso.dev@gmail.com) · [bcsentinel.ai](https://www.bcsentinel.ai) · [x.com/IvanAlonsoBCSen](https://x.com/IvanAlonsoBCSen) · [github.com/ivanalonso-dev](https://github.com/ivanalonso-dev)
+Barcelona, Spain · [ivanalonso.dev@gmail.com](mailto:ivanalonso.dev@gmail.com) · [bcsentinel.ai](https://www.bcsentinel.ai) · [linkedin.com/in/ivanalonsodev](https://www.linkedin.com/in/ivanalonsodev) · [x.com/ivanalonsodev](https://x.com/ivanalonsodev) · [github.com/ivanalonso-dev](https://github.com/ivanalonso-dev)
 
 Serial entrepreneur with 25 years of taking companies and projects from zero to full operation, first in construction and real estate, now in blockchain technology. I am the founder and software architect of **BCSentinel AI**, an on-chain intelligence platform that anticipates the public launch of crypto protocols by 137 days on average, and of **Crucible Quant**, a statistically validated crypto alert service running in production with automated subscription billing, plus a series of public quantitative research projects on volatility, market regimes and portfolio construction.
 
